@@ -33,6 +33,7 @@ export enum PLAYER_TYPE {
   OPLAYER = 'oplayer',
   // ALIPLAYER = 'aliplayer',
   // VEPLAYER = 'veplayer',
+  VLCPLAYER = 'vlcplayer',
   CUSTOM = 'custom',
 }
 export type IPlayerType = `${PLAYER_TYPE}`;

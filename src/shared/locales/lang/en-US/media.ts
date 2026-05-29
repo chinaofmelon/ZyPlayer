@@ -19,6 +19,7 @@ export default {
     dplayer: 'DPlayer',
     nplayer: 'NPlayer',
     ckplayer: 'CkPlayer',
+    vlcplayer: 'VlcPlayer',
     customplayer: 'CustomPlayer',
   },
 };
